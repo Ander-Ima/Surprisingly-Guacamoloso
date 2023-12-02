@@ -5,7 +5,7 @@ Platforms with resolved issues:
 💾Codeforces
 💾Codesignal
 💾OmegaUp
-💾SPOJ
+💾SPOJ"\n"
 💾CSES
 💾UVA
 💾DMOJ
