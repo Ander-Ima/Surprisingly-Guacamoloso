@@ -26,10 +26,12 @@ Actualmente trabajamos y resolvemos problemas en las siguientes plataformas:
 
 | 💾 [Kattis](https://open.kattis.com/) | ✅ |
 
+| 💾 [Yosupo](https://judge.yosupo.jp/) | ✅ |
 
 ## Colaboradores 👻🤖
 
 | 👻 **Ander Imanol**  👻 |
 
 | 🤖 **Santiago Canseco**  🤖 |
+
 
