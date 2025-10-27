@@ -27,7 +27,7 @@ Actualmente trabajamos y resolvemos problemas en las siguientes plataformas:
 | 💾 [Kattis](https://open.kattis.com/) | ✅ |
 
 
-##Colaboradores 👻🤖
+## Colaboradores 👻🤖
 
 | 👻 **Ander Imanol**  👻 |
 
